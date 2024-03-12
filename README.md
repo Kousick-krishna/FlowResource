@@ -1,1 +1,11 @@
 # FlowResource
+# Overview
+This SomeContract is a Cadence smart contract showcasing variable and function access scopes. It defines a structure with public, contract-scoped, and private variables and functions.
+
+# Usage Areas
+AREA 1: Read and modify all variables, call all functions.
+AREA 2: Read c , call publicFunc() & contractFunc().
+AREA 3: Read c , call publicFunc() & contractFunc().
+AREA 4: Read and modify all variables, call all functions.
+# Author 
+Kousick Krishna S
